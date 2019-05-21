@@ -21,11 +21,11 @@
         ],
       "publishedDate":"2019-05-21T09:00:00+07:00",
       "lastUpdateDate":"2019-05-21T05:00:00+07:00",
-      "thumbnailURL": "ParadigmShadersIcons/thumbnail.png",
-      "bannerImageURL": "ParadigmShadersIcons/banner.png",
+      "thumbnailURL": "ParadigmShadersAssets/thumbnail.png",
+      "bannerImageURL": "ParadigmShadersAssets/banner.png",
       "previewImageURLs":[
-          "ParadigmShadersIcons/previewImage1.png",
-          "ParadigmShadersIcons/previewImage2.png"
+          "ParadigmShadersAssets/previewImage1.png",
+          "ParadigmShadersAssets/previewImage2.png"
         ]
     }
     ]
