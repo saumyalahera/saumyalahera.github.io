@@ -1,0 +1,32 @@
+{
+  "title": "Paradigm - Shaders",
+  "publisherName": "Saumya Lahera",
+  "feedIdentifier":"io.github.saumyalahera",
+  "contactURL": "saumyalahera@gmail.com",
+  "formatVersion": "1.0",
+  "documents":[
+    {
+      "title": "Intro to Shaders",
+      "overviewSubtitle": "Learn the basics of Shaders in SceneKit.",
+      "detailSubtitle": "Shaders in iOS using Metal and SceneKit.",
+      "description": "3D models are, essentially, a collection of 3D coordinates called vertices. They are connected together to make triangles. Each vertex can contain few other informations, such as a colour, the direction it points towards (called normal) and some coordinates to map textures onto it (called UV data). 3D models have a material and material has shaders. Models cannot be rendered without a material. Materials are wrappers which contain a shader and the values for its properties. Hence, different materials can share the same shader, feeding it with different data. Model->Material->Shader. Shader functions run on the GPU. Vertex Functions - Are used to play with vertex positions. For instance, animating an object. Fragment Functions - Are used to change pixel colors. Kernel Functions - Are used in Machine Learning and Kernel shaders are used for that.",
+      "contentIdentifier": "io.github.saumyalahera.paradigmshaders",
+      "contentVersion": "1.0",
+      "url": "https://saumyalahera.github.io/ParadigmShaders/Paradigm-Shaders.playgroundbook.zip",
+      "additionalInformation":[
+        {
+          "name": "Made for",
+          "value": "Fun"
+        }
+        ],
+      "publishedDate":"2019-05-21T09:00:00+07:00",
+      "lastUpdateDate":"2019-05-21T05:00:00+07:00",
+      "thumbnailURL": "ParadigmShadersIcons/thumbnail.png",
+      "bannerImageURL": "ParadigmShadersIcons/banner.png",
+      "previewImageURLs":[
+          "ParadigmShadersIcons/previewImage1.png",
+          "ParadigmShadersIcons/previewImage2.png"
+        ]
+    }
+    ]
+}
