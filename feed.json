@@ -28,6 +28,25 @@
                 "https://github.com/saumyalahera/saumyalahera.github.io/raw/master/ParadigmShadersAssets/previewImage4.png",
                 "https://github.com/saumyalahera/saumyalahera.github.io/raw/master/ParadigmShadersAssets/previewImage5.png"
             ]
+        },
+        {
+            "title": "Paradigm PEMDAS",
+            "overviewSubtitle": "Enjoy the game where you can become an expert with PEMDAS - Order of Operations",
+            "detailSubtitle": "Math!",
+            "description": "The PEMDAS Rule is a set of rules that prioritize the order of calculations, that is, which operation to perform first. Otherwise, it is possible to get multiple or different answers. We don’t want that to happen.",
+            "contentIdentifier": "io.github.saumyalahera.paradigmPEMDAS",
+            "contentVersion": "1.0",
+            "url": "https://github.com/saumyalahera/saumyalahera.github.io/raw/master/ParadigmPEMDAS/ParadigmPEMDAS.playgroundbook.zip",
+            "sha512": "40d33e0b7e84510e9f68bfc01eaa312042eedac34d72bd62c42434cd0792ffc72fd56fd739f275187a79593859e737ee3c41afabb37a83f089b945bbed9a7b17",
+            "publishedDate": "2017-04-07T13:03:00+00:00",
+            "lastUpdatedDate": "2017-06-21T13:31:00+00:00",
+            "thumbnailURL": "https://github.com/saumyalahera/saumyalahera.github.io/raw/master/ParadigmPEMDASAssets/thumbnail.png",
+            "bannerImageURL": "https://github.com/saumyalahera/saumyalahera.github.io/raw/master/ParadigmPEMDASAssets/banner.png",
+            "additionalInformation": [
+            ],
+            "previewImageURLs":[
+                "https://github.com/saumyalahera/saumyalahera.github.io/raw/master/ParadigmPEMDASAssets/previewImage1.png"
+            ]
         }
     ]
 }
